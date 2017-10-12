@@ -1,3 +1,4 @@
+print('This program calculates the square of a right triangle')
 while True:
     a = input('Input first catheter: ')
     b = input('Input second catheter: ')
